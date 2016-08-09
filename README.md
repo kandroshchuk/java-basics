@@ -1,9 +1,12 @@
-#Basic Project Project
+#Java Basics Project 
 
-*Simple Project*
+*Simple Java Basic Concepts*
 
-**Java 7
+**Java 7**
 
-* Java Maven Application
+* Java Application
+* Maven
 
-Simple Java Application.
+Java Application which focuses on Java Fundamentals.
+
+[Kateryna Androshchuk](https://github.com/kandroshchuk)
